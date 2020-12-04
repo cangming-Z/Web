@@ -1,0 +1,4 @@
+2020-11-30 10:28:13,902 - db_helper - ERROR - SQL语句执行错误：(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'index' at line 1")；当前SQL：select type,elements_msg,value from custom_process_detail where project_id = 1 and process_id = 1 order by index
+2020-11-30 11:02:49,312 - test_main - ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="admin"]"}
+  (Session info: chrome=85.0.4183.83)
+
